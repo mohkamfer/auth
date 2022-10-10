@@ -3,7 +3,7 @@
 # Features:
 - Written in TypeScript
 - express for the web server
-- bcrypt for hasking passwords
+- bcrypt for hashing passwords
 - passport for user authentication
 - typeorm for models and persistance
 - express-session for simple cookie sessions
